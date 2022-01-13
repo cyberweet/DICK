@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Config file for API keys, etc. Tell me if there's a better way to do this.
+config.py
